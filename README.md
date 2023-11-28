@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my page!
+
 🌱 I'm Shimada, currently learning software development at 42Tokyo in 🇯🇵Japan.
 
 ### ⚡Status
